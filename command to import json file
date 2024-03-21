@@ -1,0 +1,1 @@
+mongoimport --uri "mongodb+srv://shubham:shubham@computeroids.leodwlf.mongodb.net/computeroids" --collection blog --jsonArray --file "C:\Users\punit\Downloads\computeroids.json"
